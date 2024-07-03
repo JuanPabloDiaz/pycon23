@@ -17,4 +17,4 @@ Una vez hayas hecho fork del repo vas a clonarlo en databricks [Para obtener tu 
 
 1. [MLFlow](https://mlflow.org/)
 
-1. [Miguel Angel Díaz Rodríguez](https://www.linkedin.com/in/migueldr/)
+1. [Miguel Angel Díaz Rodríguez](https://www.miguediaz.com)
